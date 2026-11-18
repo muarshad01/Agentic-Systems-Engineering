@@ -7,3 +7,13 @@
 * [Components of Agent Memory: Dreaming, Short-Term and Long-Term Memory](https://www.youtube.com/watch?v=j7Jrhi-xXjk)
 
 *** 
+
+#### Courses
+* [HuggingFace AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
+* Agentic AI — DeepLearning.AI
+* LangGraph Academy
+* [ AI Agents for Beginners — Microsoft](https://github.com/microsoft/ai-agents-for-beginners?utm_source=chatgpt.com)
+
+#### Books
+* AI Agents in Action, Second Edition
+* Building Applications with AI Agents
